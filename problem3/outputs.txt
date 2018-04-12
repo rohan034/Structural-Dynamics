@@ -1,0 +1,26 @@
+If you run the main function, you should get the following outputs.
+
+
+Natural frequency for 1st mode (rad/s)
+    0.3731
+
+Mode shape for 1st mode
+   -0.2691
+   -0.5008
+   -0.5817
+
+Natural frequencies for 2nd mode (rad/s)
+    1.3214
+
+Mode shape for 2nd mode
+   -0.8782
+   -0.2231
+    0.2992
+
+Natural frequencies for 3rd mode (rad/s)
+    2.0285
+
+Mode shape for 3rd mode
+   -0.3954
+    0.8363
+   -0.2685
